@@ -50,11 +50,11 @@ Web ve mobil teknolojilerle ilgileniyorum. Lisans eğitimimi İstatistik ve Bilg
 
 You can find and get touch with me on these accounts!
 
-[![Linkedin Badge](https://img.shields.io/badge/sametirkoren-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tolgaacgul/)
+[![Linkedin Badge](https://img.shields.io/badge/tolgaacgul-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tolgaacgul/)
 
-[![Instagram Badge](https://img.shields.io/badge/sametirkoren-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/tolgaacgul/)
+[![Instagram Badge](https://img.shields.io/badge/tolgaacgul-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/tolgaacgul/)
 
-[![Twitter Badge](https://img.shields.io/badge/vakidev-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/tolgaacgul/)
+[![Twitter Badge](https://img.shields.io/badge/tolgaacgul-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/tolgaacgul/)
 
 
 
