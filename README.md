@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##### <a href="https://tolgaacgul.github.io/">Click</a> for my website
+#### <a href="https://tolgaacgul.github.io/">Click</a> for my website
 
-####EN
+#### EN
 My name is Tolga Açgül, I'm based in Turkey, city Istanbul.
 I am interested in web and mobile technologies. I completed my undergraduate education by studying Statistics and Computer Science. During my education, I learned coding and statistics. I started my coding education with C and C ++. I also gained experience by analyzing data with SPSS and R. I am working in the web space now.
 
-#####TR
+#### TR
 Ben Tolga Açgül, Türkiye'de İstanbul şehrinde yaşıyorum.
 Web ve mobil teknolojilerle ilgileniyorum. Lisans eğitimimi İstatistik ve Bilgisayar Bilimleri okuyarak tamamladım. Eğitimim sırasında kodlama ve istatistik öğrendim. Kodlama eğitimime C ve C ++ ile başladım. Ayrıca SPSS ve R ile verileri analiz ederek deneyim kazandım. Şu anda web alanında çalışıyorum.
 
