@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+##### <a href="https://tolgaacgul.github.io/">Click</a> for my website
 
 ####EN
 My name is Tolga Açgül, I'm based in Turkey, city Istanbul.
@@ -31,9 +32,9 @@ Web ve mobil teknolojilerle ilgileniyorum. Lisans eğitimimi İstatistik ve Bilg
 
 ## 🧠 Know / Using
 
-<img src="https://github.com/github/explore/blob/master/topics/html/html.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/css/css.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/javascript/javascript.png?raw=true" height="32" /><img src="https://github.com/github/explore/blob/master/topics/nodejs/nodejs.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/npm/npm.png?raw=true" height="32" /><img src="https://github.com/github/explore/blob/master/topics/json/json.png?raw=true" height="32" />
-<img src="https://github.com/github/explore/blob/master/topics/cpp/cpp.png?raw=true" height="32" /><img src="https://github.com/github/explore/blob/master/topics/linux/linux.png?raw=true" height="32" /> 
-<img src="https://github.com/github/explore/blob/master/topics/sql/sql.png?raw=true" height="32" /><img src="https://github.com/github/explore/blob/master/topics/mysql/mysql.png?raw=true" height="32" />
+<img src="https://github.com/github/explore/blob/master/topics/html/html.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/css/css.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/javascript/javascript.png?raw=true" height="32" /><img src="https://github.com/github/explore/blob/master/topics/nodejs/nodejs.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/npm/npm.png?raw=true" height="32" /><img src="https://github.com/github/explore/blob/master/topics/json/json.png?raw=true" height="32" /><br>
+<img src="https://github.com/github/explore/blob/master/topics/cpp/cpp.png?raw=true" height="32" /><img src="https://github.com/github/explore/blob/master/topics/linux/linux.png?raw=true" height="32" /><br>
+<img src="https://github.com/github/explore/blob/master/topics/sql/sql.png?raw=true" height="32" /><img src="https://github.com/github/explore/blob/master/topics/mysql/mysql.png?raw=true" height="32" /><br>
 <img src="https://github.com/github/explore/blob/master/topics/git/git.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/github/github.png?raw=true" height="32" />  <img src="https://github.com/github/explore/blob/master/topics/terminal/terminal.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/visual-studio-code/visual-studio-code.png?raw=true" height="32" />
 
 
