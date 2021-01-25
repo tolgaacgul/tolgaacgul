@@ -38,22 +38,12 @@ Web ve mobil teknolojilerle ilgileniyorum. Lisans eğitimimi İstatistik ve Bilg
 ## 🧠 Know / Using
 
 
-<img src="https://github.com/github/explore/blob/master/topics/bootstrap/bootstrap.png?raw=true" height="32" /> 
-<img src="https://github.com/github/explore/blob/master/topics/csharp/csharp.png?raw=true" height="32" /> 
-<img src="https://github.com/github/explore/blob/master/topics/css/css.png?raw=true" height="32" /> 
-<img src="https://github.com/github/explore/blob/master/topics/git/git.png?raw=true" height="32" /> 
-<img src="https://github.com/github/explore/blob/master/topics/github/github.png?raw=true" height="32" />  
-<img src="https://github.com/github/explore/blob/master/topics/linux/linux.png?raw=true" height="32" /> 
-<img src="https://github.com/github/explore/blob/master/topics/npm/npm.png?raw=true" height="32" /> 
-<img src="https://github.com/github/explore/blob/master/topics/terminal/terminal.png?raw=true" height="32" />   
-<img src="https://github.com/github/explore/blob/master/topics/visual-studio-code/visual-studio-code.png?raw=true" height="32" /> 
-<img src="https://github.com/github/explore/blob/master/topics/electron/electron.png?raw=true" height="32" />
+<img src="https://github.com/github/explore/blob/master/topics/bootstrap/bootstrap.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/csharp/csharp.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/css/css.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/git/git.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/github/github.png?raw=true" height="32" />  <img src="https://github.com/github/explore/blob/master/topics/linux/linux.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/npm/npm.png?raw=true" height="32" /><img src="https://github.com/github/explore/blob/master/topics/terminal/terminal.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/visual-studio-code/visual-studio-code.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/electron/electron.png?raw=true" height="32" />
 
 
 ## 📚 Learning
 
-<img src="https://github.com/github/explore/blob/master/topics/vue/vue.png?raw=true" height="32" />
-<img src="https://github.com/github/explore/blob/master/topics/angular/angular.png?raw=true" height="32" />
+<img src="https://github.com/github/explore/blob/master/topics/vue/vue.png?raw=true" height="32" /><img src="https://github.com/github/explore/blob/master/topics/angular/angular.png?raw=true" height="32" />
 
 
 ## 📫 How to reach me
