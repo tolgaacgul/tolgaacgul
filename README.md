@@ -24,7 +24,6 @@ I am interested in web and mobile technologies. I completed my undergraduate edu
 Ben Tolga Açgül, Türkiye'de İstanbul şehrinde yaşıyorum.
 Web ve mobil teknolojilerle ilgileniyorum. Lisans eğitimimi İstatistik ve Bilgisayar Bilimleri okuyarak tamamladım. Eğitimim sırasında kodlama ve istatistik öğrendim. Kodlama eğitimime C ve C ++ ile başladım. Ayrıca SPSS ve R ile verileri analiz ederek deneyim kazandım. Şu anda web alanında çalışıyorum.
 
-- 🙋‍♂️ Pronouns: He/him
 
 ![Tolga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tolgaacgul&show_icons=true)
 
