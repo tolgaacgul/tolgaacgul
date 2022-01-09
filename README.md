@@ -29,20 +29,6 @@ Web ve mobil teknolojilerle ilgileniyorum. Lisans eğitimimi İstatistik ve Bilg
 ![Tolga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tolgaacgul&show_icons=true)
 
 
-
-## 🧠 Know / Using
-
-<img src="https://github.com/github/explore/blob/master/topics/html/html.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/css/css.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/javascript/javascript.png?raw=true" height="32" /><img src="https://github.com/github/explore/blob/master/topics/nodejs/nodejs.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/npm/npm.png?raw=true" height="32" /><img src="https://github.com/github/explore/blob/master/topics/json/json.png?raw=true" height="32" /><br>
-<img src="https://github.com/github/explore/blob/master/topics/cpp/cpp.png?raw=true" height="32" /><img src="https://github.com/github/explore/blob/master/topics/linux/linux.png?raw=true" height="32" /><br>
-<img src="https://github.com/github/explore/blob/master/topics/sql/sql.png?raw=true" height="32" /><img src="https://github.com/github/explore/blob/master/topics/mysql/mysql.png?raw=true" height="32" /><br>
-<img src="https://github.com/github/explore/blob/master/topics/git/git.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/github/github.png?raw=true" height="32" />  <img src="https://github.com/github/explore/blob/master/topics/terminal/terminal.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/visual-studio-code/visual-studio-code.png?raw=true" height="32" />
-
-
-## 📚 Learning
-
-<img src="https://github.com/github/explore/blob/master/topics/vue/vue.png?raw=true" height="32" /><img src="https://github.com/github/explore/blob/master/topics/angular/angular.png?raw=true" height="32" />
-
-
 ## 📫 How to reach me
 
 You can find and get touch with me on these accounts!
