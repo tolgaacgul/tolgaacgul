@@ -27,6 +27,8 @@ Web ve mobil teknolojilerle ilgileniyorum. Lisans eğitimimi İstatistik ve Bilg
 
 ![Tolga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tolgaacgul&show_icons=true)
 
+## Projects I working on thing
+[![sendeoyver Badge](https://pbs.twimg.com/profile_banners/1486780653983223817/1643312075/1500x500)
 
 ## 📫 How to reach me
 
