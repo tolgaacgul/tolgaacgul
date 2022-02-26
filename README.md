@@ -14,7 +14,8 @@ Web teknolojileri ile ilgileniyorum. **JavaScipt, Boostrap, Css ve Html** ile we
 #### 1 - <a href="https://sendeoyver.com">Cumgurbaşkanlığı Seçim Uygulaması</a>
 ![sendeoyver Badge](https://pbs.twimg.com/profile_banners/1486780653983223817/1643312075/1500x500)
 ***Başlığa tıklayarak proje canlısına ulaşabilirsiniz.***
-Front-end tarafını incelemek için [sendeoyver.com](https://www.google.com) reposuna göz atın
+
+Front-end tarafını incelemek için [sendeoyver.com](https://github.com/tolgaacgul/sendeoyver.com) reposuna göz atın
 
 Projenin front-end kısmı için boostrap ve css yapıları kullanıldı. responive yapı için temek olarak boostrap'in break point noktaları baz alındı. Kullanıcı verilerinin back-end e gönderilmeden önce js ile formdan alındı ve derlendi. Ardından back-end kısmı için php kodları yazıldı. Formdan post işlemi ile alınan kullanıcı bilgileri php yardımı ile veri tabanına iletildi. 
 Aynı zamanda adayların aldığı oylar php ile veritabanından çekilerek client kısmına yazıldı.
@@ -29,7 +30,8 @@ I am interested in web technologies. I can complete **front-end** parts of websi
 #### 1 - <a href="https://sendeoyver.com">Turkish Presidential Election Application</a>
 ![sendeoyver Badge](https://pbs.twimg.com/profile_banners/1486780653983223817/1643312075/1500x500)
 ***Reach The Project of Click The Title Please.***
-Check out the [sendeoyver.com](https://www.google.com) repo to review the for front-end side
+
+Check out the [sendeoyver.com](https://github.com/tolgaacgul/sendeoyver.com) repo to review the for front-end side
 
 Boostrap and css structures were used for the front-end part of the project. The break point of boostrap was taken as the basis for the responsive structure. Before sending the user data to the back-end, it was taken from the form with js and compiled. Then php codes were written for the back-end part. The user information obtained from the form with the post process was transferred to the database with the help of php.
 At the same time, the votes of the candidates were withdrawn from the database with PHP and written to the client section.
