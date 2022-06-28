@@ -1,10 +1,12 @@
 ### Hi Everybody 👋
 
+<!---
+#### TR <a href="https://tolgaacgul.github.io/">tolgaacgul.github.io</a> Çalışmalarımın bulunduğu siteyi inceleyebilirsiniz.
+#### EN <a href="https://tolgaacgul.github.io/">tolgaacgul.github.io</a> You can check the site I'm working on.
+![Tolga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tolgaacgul&show_icons=true)
+-->
 
-[//]: #### TR <a href="https://tolgaacgul.github.io/">tolgaacgul.github.io</a> Çalışmalarımın bulunduğu siteyi inceleyebilirsiniz.
-[//]: #### EN <a href="https://tolgaacgul.github.io/">tolgaacgul.github.io</a> You can check the site I'm working on.
-[//]: ![Tolga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tolgaacgul&show_icons=true)
-[//]: <hr>
+<hr>
 
 ## TR
 Ben Tolga Açgül, Türkiye'de yaşıyorum.
@@ -22,6 +24,8 @@ Aynı zamanda adayların aldığı oylar php ile veritabanından çekilerek clie
 
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<hr>
+
 ## EN
 I'm Tolga Açgül, I live in Turkey.
 I am interested in web technologies. I can complete **front-end** parts of websites with **JavaScipt, Boostrap, Css and Html**. I also know enough **php**. I am sharing with you one of my projects that I created with the technologies I know and use. You can view the project I brought live by clicking the link.
