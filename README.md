@@ -1,10 +1,10 @@
 ### Hi Everybody 👋
 
 
-// #### TR <a href="https://tolgaacgul.github.io/">tolgaacgul.github.io</a> Çalışmalarımın bulunduğu siteyi inceleyebilirsiniz.
-// #### EN <a href="https://tolgaacgul.github.io/">tolgaacgul.github.io</a> You can check the site I'm working on.
-// ![Tolga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tolgaacgul&show_icons=true)
-// <hr>
+[//]: #### TR <a href="https://tolgaacgul.github.io/">tolgaacgul.github.io</a> Çalışmalarımın bulunduğu siteyi inceleyebilirsiniz.
+[//]: #### EN <a href="https://tolgaacgul.github.io/">tolgaacgul.github.io</a> You can check the site I'm working on.
+[//]: ![Tolga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tolgaacgul&show_icons=true)
+[//]: <hr>
 
 ## TR
 Ben Tolga Açgül, Türkiye'de yaşıyorum.
